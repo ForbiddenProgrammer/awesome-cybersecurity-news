@@ -7,6 +7,4 @@ In this repository, you will find a lot of websites/blogs related to cybersecuri
 
 [bleepingcomputer.com](https://www.bleepingcomputer.com/) - News about cybersecurity, especially: data breaches, malware, and recent ransomware attacks on companies (+ "The Week in Ransomware" series, which sums up latest ransomware attacks). Posts contains nice thumbnails, and content which will also be understood by less technical folks.
 
-
-
-
+[zdnet.com](https://www.zdnet.com/) - Technology news, analysis, comments and product Reviews for IT Professionals
