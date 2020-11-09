@@ -2,6 +2,7 @@
 
 In the IT industry, especially cybersecurity one, being up to date is key to success.
 In this repository, you will find a lot of sources to get fresh cybersecurity news/informations.
+No matter if you are regular user, pentester, programmer or cybersecurity expert, you will find something for you.
 
 ## News websites
 [malware.news](https://malware.news/) - Latest malware news and threat information exchange website. It basicly lists news/articles about cybersecurity from
