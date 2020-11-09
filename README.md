@@ -76,3 +76,5 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [twitter.com/USCERT_gov](https://twitter.com/USCERT_gov)
 
 [twitter.com/VK_Intel](https://twitter.com/VK_Intel)
+
+[twitter.com/malwrhunterteam](https://twitter.com/malwrhunterteam)
