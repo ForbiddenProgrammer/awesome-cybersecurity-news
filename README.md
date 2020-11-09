@@ -34,6 +34,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 ## Cybersecurity companies blogs
 
 [research.checkpoint.com](https://research.checkpoint.com/) - Cybersecurity threats analysis (technical blog)
+
 [fireeye.com](https://www.fireeye.com/blog.html) - Provides information and insight on advanced cyber attacks, threat research and cyber security issues facing organizations today. Posts contains more technical aspect of threats (for example, showing parts of vulnerable code or showing parts of malware functions)
 
 [proofpoint.com](https://www.proofpoint.com/us/blog) - Blog provides you with advanced cybersecurity intelligence and insights, threat research, and breaking cyber attack news. Get the latest news about advanced threats.
@@ -52,9 +53,13 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 ## Twitter (researchers accounts)
 *soonTM*
 
+[twitter.com/MalwareTechBlog](https://twitter.com/MalwareTechBlog)
+
 [twitter.com/threatpost](https://twitter.com/threatpost)
 
 [twitter.com/nas_bench](https://twitter.com/nas_bench)
+
+[twitter.com/malwareunicorn](https://twitter.com/malwareunicorn)
 
 [twitter.com/reach2ratan](https://twitter.com/reach2ratan)
 
