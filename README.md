@@ -24,7 +24,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 *soonTM*
 
 ## Cybersecurity companies blogs
-[fireeye.com/](https://www.fireeye.com/blog.html) - Provides information and insight on advanced cyber attacks, threat research and cyber security issues facing organizations today. Posts contains more technical aspect of threats (for example, showing parts of vulnerable code or showing parts of malware functions)
+[fireeye.com](https://www.fireeye.com/blog.html) - Provides information and insight on advanced cyber attacks, threat research and cyber security issues facing organizations today. Posts contains more technical aspect of threats (for example, showing parts of vulnerable code or showing parts of malware functions)
 
 [proofpoint.com](https://www.proofpoint.com/us/blog) - Blog provides you with advanced cybersecurity intelligence and insights, threat research, and breaking cyber attack news. Get the latest news about advanced threats.
 
