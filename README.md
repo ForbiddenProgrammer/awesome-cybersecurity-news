@@ -23,9 +23,17 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [krabsonsecurity.com](https://krabsonsecurity.com/) - Reverse engineering malware blog. 
 
+[hexacorn.com](https://www.hexacorn.com/index.html) - Cybersecurity (especially Windows one)
+
+[blog.rootshell.be](https://blog.rootshell.be/) - Cybersecurity blog
+
+[modexp.wordpress.com](https://modexp.wordpress.com/) - Random posts about computer security. (a lot of windows injection tricks explained)
+
 *soonTM*
 
 ## Cybersecurity companies blogs
+
+[research.checkpoint.com](https://research.checkpoint.com/) - Cybersecurity threats analysis (technical blog)
 [fireeye.com](https://www.fireeye.com/blog.html) - Provides information and insight on advanced cyber attacks, threat research and cyber security issues facing organizations today. Posts contains more technical aspect of threats (for example, showing parts of vulnerable code or showing parts of malware functions)
 
 [proofpoint.com](https://www.proofpoint.com/us/blog) - Blog provides you with advanced cybersecurity intelligence and insights, threat research, and breaking cyber attack news. Get the latest news about advanced threats.
@@ -33,9 +41,25 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [fortinet.com](https://www.fortinet.com/blog) - Explore the latest cybersecurity trends and innovations, leading edge threat intelligence from FortiGuard Labs, Fortinet executive insights, and customer perspectives
 
 [cybereason.com](https://www.cybereason.com/blog) - Get the latest research, expert insights, and security industry news. Blog contains reviews of newset threats, with attack scheme used by actors, step by step.
+
 [cyberark.com](https://www.cyberark.com/resources/threat-research-blog) - Threat research blog.
 
+[malwarebytes.com](https://blog.malwarebytes.com/) - The security blog from Malwarebytes
+
+[lastline.com](https://www.lastline.com/blog/) - Security blog
 *soonTM*
 
 ## Twitter (researchers accounts)
 *soonTM*
+
+[twitter.com/threatpost](https://twitter.com/threatpost)
+
+[twitter.com/nas_bench](https://twitter.com/nas_bench)
+
+[twitter.com/reach2ratan](https://twitter.com/reach2ratan)
+
+[twitter.com/garymetz](https://twitter.com/garymetz)
+
+[twitter.com/Bank_Security](https://twitter.com/Bank_Security)
+
+[twitter.com/rimpq](https://twitter.com/rimpq)
