@@ -19,7 +19,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 ## Blogs
 [krebsonsecurity.com](https://krebsonsecurity.com/) - In-depth security news and investigation by Brian Krebs
-[krabsonsecurity.com](https://krabsonsecurity.com/) - Reverse engineering malware blog. (name is parody of blog by Brian Krebs)
+
+[krabsonsecurity.com](https://krabsonsecurity.com/) - Reverse engineering malware blog. 
 
 *soonTM*
 
