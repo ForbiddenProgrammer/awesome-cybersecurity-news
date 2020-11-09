@@ -21,7 +21,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [krebsonsecurity.com](https://krebsonsecurity.com/) - In-depth security news and investigation by Brian Krebs
 [krabsonsecurity.com](https://krabsonsecurity.com/) - Reverse engineering malware blog. (name is parody of blog by Brian Krebs)
 
-*msoonTM*
+*soonTM*
 
 ## Cybersecurity companies blogs
 [fireeye.com/](https://www.fireeye.com/blog.html) - Provides information and insight on advanced cyber attacks, threat research and cyber security issues facing organizations today. Posts contains more technical aspect of threats (for example, showing parts of vulnerable code or showing parts of malware functions)
