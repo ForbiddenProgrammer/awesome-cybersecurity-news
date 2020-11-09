@@ -1,4 +1,4 @@
-# Awesome Cybersecurity News
+![alt text](https://www.campussafetymagazine.com/wp-content/uploads/2020/03/cybersecurity-2019.jpg)
 
 In the IT industry, especially cybersecurity one, being up to date is key to success.
 In this repository, you will find a lot of sources to get fresh cybersecurity news/informations.
@@ -24,6 +24,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [krabsonsecurity.com](https://krabsonsecurity.com/) - Reverse engineering malware blog. 
 
 [hexacorn.com](https://www.hexacorn.com/index.html) - Cybersecurity (especially Windows one)
+
+[vkremez.com](https://www.vkremez.com/) - Reverse engineering blog
 
 [blog.rootshell.be](https://blog.rootshell.be/) - Cybersecurity blog
 
@@ -69,4 +71,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [twitter.com/rimpq](https://twitter.com/rimpq)
 
+[twitter.com/blueteamsec1](https://twitter.com/blueteamsec1)
+
 [twitter.com/USCERT_gov](https://twitter.com/USCERT_gov)
+
+[twitter.com/VK_Intel](https://twitter.com/VK_Intel)
