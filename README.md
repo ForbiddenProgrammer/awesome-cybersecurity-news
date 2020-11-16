@@ -92,3 +92,5 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [twitter.com/cyb3rops](https://twitter.com/cyb3rops)
 
 [twitter.com/malware_traffic](https://twitter.com/malware_traffic)
+
+[twitter.com/CatherineAdenle](https://twitter.com/CatherineAdenle)
