@@ -56,7 +56,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [lastline.com](https://www.lastline.com/blog/) - Security blog
 *soonTM*
 
-## Twitter (researchers accounts)
+## Twitter (cybersecurity related content)
 *soonTM*
 
 [twitter.com/MalwareTechBlog](https://twitter.com/MalwareTechBlog)
@@ -84,3 +84,5 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [twitter.com/malwrhunterteam](https://twitter.com/malwrhunterteam)
 
 [twitter.com/io_strap](https://twitter.com/io_strap)
+
+[twitter.com/CioAmaro](https://twitter.com/CioAmaro)
