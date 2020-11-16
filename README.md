@@ -59,6 +59,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 ## Twitter (cybersecurity related content)
 *soonTM*
 
+[twitter.com/ochsenmeier](https://twitter.com/ochsenmeier)
+
 [twitter.com/MalwareTechBlog](https://twitter.com/MalwareTechBlog)
 
 [twitter.com/threatpost](https://twitter.com/threatpost)
