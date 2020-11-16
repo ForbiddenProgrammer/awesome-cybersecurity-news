@@ -16,6 +16,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [thehackernews.com](https://thehackernews.com/) - Infosec source of the latest hacking news, cyber attacks, computer security, and cybersecurity for ethical hackers, penetration testers, and information technology professionals
 
+[difesaesicurezza.com](https://www.difesaesicurezza.com/en/category/cyber-en/) - News and info on defense and security in Italy and around the world, keep yourself informed
+
 *soonTM*
 
 ## Blogs
@@ -30,6 +32,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [blog.rootshell.be](https://blog.rootshell.be/) - Cybersecurity blog
 
 [modexp.wordpress.com](https://modexp.wordpress.com/) - Random posts about computer security. (a lot of windows injection tricks explained)
+
+[andreafortuna.org](https://www.andreafortuna.org/category/cybersecurity/) - Cybersecurity, forensics
 
 *soonTM*
 
@@ -78,3 +82,5 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [twitter.com/VK_Intel](https://twitter.com/VK_Intel)
 
 [twitter.com/malwrhunterteam](https://twitter.com/malwrhunterteam)
+
+[twitter.com/io_strap](https://twitter.com/io_strap)
