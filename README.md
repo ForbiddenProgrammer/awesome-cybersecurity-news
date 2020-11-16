@@ -88,3 +88,5 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [twitter.com/io_strap](https://twitter.com/io_strap)
 
 [twitter.com/CioAmaro](https://twitter.com/CioAmaro)
+
+[twitter.com/cyb3rops](https://twitter.com/cyb3rops)
