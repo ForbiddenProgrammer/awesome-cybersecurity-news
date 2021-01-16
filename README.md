@@ -109,6 +109,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [twitter.com/TalBeerySec](https://twitter.com/TalBeerySec)
 
+[twitter.com/iSecurity](https://twitter.com/iSecurity)
 
 
 ## Exploits / bug bounty
