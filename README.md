@@ -53,6 +53,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [malwarebytes.com](https://blog.malwarebytes.com/) - The security blog from Malwarebytes
 
+[cycrafttechnology.medium.com/](https://cycrafttechnology.medium.com/)
+
 [lastline.com](https://www.lastline.com/blog/) - Security blog
 *soonTM*
 
@@ -105,12 +107,16 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [twitter.com/PwnFunction](https://twitter.com/PwnFunction)
 
+[twitter.com/TalBeerySec](https://twitter.com/TalBeerySec)
+
+
+
 ## Exploits / bug bounty
 
 [chromium-disclosed-bugs.appspot.com](https://chromium-disclosed-bugs.appspot.com) - hub of security bugs that have recently been published, with date and bounty amount (great for learning purposes)
 
 [keenlab.tencent.com/en/](https://keenlab.tencent.com/en/) - well-known security research. The team is focusing on the cutting-edge security research of mainstream PC/Mobile operating systems, applications, cloud computing technologies, IOT smart devices etc
 
-[http://h1.nobbd.de/index.php?start=0](http://h1.nobbd.de/index.php) - the unofficial HackerOne disclosure timeline. 
+[h1.nobbd.de/index.php](http://h1.nobbd.de/index.php) - the unofficial HackerOne disclosure timeline. 
 
 [mksben.l0.cm](https://mksben.l0.cm/) - blog of Masato Kinugawa
