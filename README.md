@@ -8,11 +8,9 @@ No matter if you are regular user, pentester, programmer or cybersecurity expert
 [malware.news](https://malware.news/) - Latest malware news and threat information exchange website. It basicly lists news/articles about cybersecurity from
 a lot of diffrent sources. (some websites from malware.news you will find in this repository aswell)
 
-
 [bleepingcomputer.com](https://www.bleepingcomputer.com/) - News about cybersecurity, especially: data breaches, malware, and recent ransomware attacks on companies (+ "The Week in Ransomware" series, which sums up latest ransomware attacks). Posts contains nice thumbnails, and content which will also be understood by less technical folks.
 
 [zdnet.com](https://www.zdnet.com/) - Technology news, analysis, comments and product Reviews for IT Professionals. 
-
 
 [thehackernews.com](https://thehackernews.com/) - Infosec source of the latest hacking news, cyber attacks, computer security, and cybersecurity for ethical hackers, penetration testers, and information technology professionals
 
@@ -34,6 +32,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [modexp.wordpress.com](https://modexp.wordpress.com/) - Random posts about computer security. (a lot of windows injection tricks explained)
 
 [andreafortuna.org](https://www.andreafortuna.org/category/cybersecurity/) - Cybersecurity, forensics
+
+[lab52.io/blog/](https://lab52.io/blog) - APT / special services operations analysis, cybersecurity.
 
 *soonTM*
 
@@ -60,6 +60,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 *soonTM*
 
 [twitter.com/ochsenmeier](https://twitter.com/ochsenmeier)
+
+[twitter.com/kinugawamasato](https://twitter.com/kinugawamasato)
 
 [twitter.com/MalwareTechBlog](https://twitter.com/MalwareTechBlog)
 
@@ -94,3 +96,21 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [twitter.com/malware_traffic](https://twitter.com/malware_traffic)
 
 [twitter.com/CatherineAdenle](https://twitter.com/CatherineAdenle)
+
+[twitter.com/SecurityMB](https://twitter.com/SecurityMB)
+
+[twitter.com/ale_sp_brazil](https://twitter.com/ale_sp_brazil)
+
+[twitter.com/bit_reader](https://twitter.com/bit_reader)
+
+[twitter.com/PwnFunction](https://twitter.com/PwnFunction)
+
+## Exploits / bug bounty
+
+[chromium-disclosed-bugs.appspot.com](https://chromium-disclosed-bugs.appspot.com) - hub of security bugs that have recently been published, with date and bounty amount (great for learning purposes)
+
+[keenlab.tencent.com/en/](https://keenlab.tencent.com/en/) - well-known security research. The team is focusing on the cutting-edge security research of mainstream PC/Mobile operating systems, applications, cloud computing technologies, IOT smart devices etc
+
+[http://h1.nobbd.de/index.php?start=0](http://h1.nobbd.de/index.php) - the unofficial HackerOne disclosure timeline. 
+
+[mksben.l0.cm](https://mksben.l0.cm/) - blog of Masato Kinugawa
