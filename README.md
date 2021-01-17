@@ -111,6 +111,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [twitter.com/iSecurity](https://twitter.com/iSecurity)
 
+[twitter.com/samwcyo](https://twitter.com/samwcyo)
 
 ## Exploits / bug bounty
 
