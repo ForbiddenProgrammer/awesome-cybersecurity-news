@@ -19,6 +19,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 *soonTM*
 
 ## Blogs
+[Hacklido.com](https://hacklido.com/) - collection of awesome blogs from the best hackers.
+
 [krebsonsecurity.com](https://krebsonsecurity.com/) - In-depth security news and investigation by Brian Krebs
 
 [krabsonsecurity.com](https://krabsonsecurity.com/) - Reverse engineering malware blog. 
@@ -60,6 +62,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 ## Twitter (cybersecurity related content)
 *soonTM*
+
+[twitter.com/hacklido](https://twitter.com/hacklido)
 
 [twitter.com/ochsenmeier](https://twitter.com/ochsenmeier)
 
