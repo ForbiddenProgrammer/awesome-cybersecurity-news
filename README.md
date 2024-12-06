@@ -51,6 +51,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [cyberark.com](https://www.cyberark.com/resources/threat-research-blog) - Threat research blog.
 
+[Infostealers.com](https://www.infostealers.com/) - The all-around hub with news and publications about Infostealers by Hudson Rock
+
 [malwarebytes.com](https://blog.malwarebytes.com/) - The security blog from Malwarebytes
 
 [cycrafttechnology.medium.com/](https://cycrafttechnology.medium.com/)
