@@ -17,6 +17,7 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 [difesaesicurezza.com](https://www.difesaesicurezza.com/en/category/cyber-en/) - News and info on defense and security in Italy and around the world, keep yourself informed
 
 *soonTM*
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Blogs
 [krebsonsecurity.com](https://krebsonsecurity.com/) - In-depth security news and investigation by Brian Krebs
