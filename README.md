@@ -16,6 +16,8 @@ a lot of diffrent sources. (some websites from malware.news you will find in thi
 
 [difesaesicurezza.com](https://www.difesaesicurezza.com/en/category/cyber-en/) - News and info on defense and security in Italy and around the world, keep yourself informed
 
+[ichi.global](https://ichi.global) - Internet Cyber Health Index: a free, source-transparent daily barometer of internet cyber health. Aggregates threat alerts, CVEs, and telemetry from 20+ named public sources (CISA KEV, Shodan, Censys, abuse.ch, US-CERT, CVE/NVD, and others) into a single scored index. Every data point links back to its originating source. Useful for getting a quick outside-in signal on the current threat landscape.
+
 *soonTM*
 
 ## Blogs
